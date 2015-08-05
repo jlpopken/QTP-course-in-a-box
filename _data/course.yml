@@ -1,6 +1,6 @@
 title: How Development Happens
 description: Build Your Very Own Open Course
-modules: [start, request, requirements, design, coding, testing, launch]
+modules: [start, development request, requirements analysis, design, coding and implementation, testing, evaluation]
 signups:
  - name : Jeanette Popken
    image : http://i61.tinypic.com/14nz9lw.jpg
