@@ -7,7 +7,7 @@
 @import "p2pu-css-framework/p2pustrap";
 
 {% if site.jumbotron_color %}
-	$jumbotron-color: $p2pu-green;
+	$jumbotron-color: {{ site.jumbotron_color }};
 {% else %}
  $jumbotron-color: $p2pu-green;
 {% endif %}
