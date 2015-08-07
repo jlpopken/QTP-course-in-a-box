@@ -1,6 +1,6 @@
 title: "How Development Happens"
 description: "What really happens in development?"
-modules: [start, development request, requirements analysis, design, coding and implementation, testing]
+modules: [start, development request, requirements analysis, design, coding and implementation, testing, evaluation]
 authors: ["Jeanette Popken"]
 signups:
  - name : Jeanette Popken
