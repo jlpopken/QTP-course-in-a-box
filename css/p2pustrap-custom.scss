@@ -5,9 +5,10 @@
 @import "p2pu-css-framework/p2pustrap";
 
 {% if site.jumbotron_color %}
-	$jumbotron-color: red;
+	$jumbotron-color: {{ site.jumbotron_color }};
 {% else %}
- $jumbotron-color: red;
+
+ $jumbotron-color: $p2pu-blue;;
 {% endif %}
 
 {% if site.jumbotron_background_image %}
