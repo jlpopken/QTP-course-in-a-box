@@ -1,6 +1,7 @@
-title: How Development Happens
-description: Build Your Very Own Open Course
+title: "How Development Happens"
+description: "When the business asks IT development to develop or enhance something, what really happens?"
 modules: [start, development request, requirements analysis, design, coding and implementation, testing, evaluation]
+authors: ["Jeanette Popken"]
 signups:
  - name : Jeanette Popken
    image : http://i61.tinypic.com/14nz9lw.jpg
