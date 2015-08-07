@@ -8,7 +8,7 @@ body {
 
 .background-white {
 	padding: 60px 0;
-	background-color: $jumbotron_color;
+	background-color: {{ site.jumbotron_color }};
 }
 
 .navbar-brand {
