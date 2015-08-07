@@ -1,5 +1,5 @@
 title: "How Development Happens"
-description: "When the business asks IT development to develop or enhance something, what really happens?"
+description: "What really happens in development?"
 modules: [start, development request, requirements analysis, design, coding and implementation, testing, evaluation]
 authors: ["Jeanette Popken"]
 signups:
