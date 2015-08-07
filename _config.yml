@@ -33,3 +33,4 @@ prose:
 jumbotron_color: "#458B00"
 jumbotron_background_image: 'banner.svg'
 jumbotron_image: "box-icon.png"
+background-white: "#458B00"
