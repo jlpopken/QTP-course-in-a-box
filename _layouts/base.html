@@ -11,28 +11,22 @@
 	<!--[if IE]><meta content='IE=8' http-equiv='X-UA-Compatible' /><![endif]-->
 
 	<title>{{ site.data.course.title }}{% if page.title %} | {{ page.title }}{% endif %}</title>
-  {% if site.data.course.description %}<meta name="description" content="{{ site.data.course.description}}">{% endif %}
-  <meta name="author" content="{{ site.github.owner_name }}">
-
-  <meta property="og:title" content="{{ site.data.course.title }}" />
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content="{{ site.github.url }}" />
-
+	<meta name="description" content="Learning for everyone, by everyone, about almost anything.">
+	<meta name="author" content="p2pu">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-	<link rel="shortcut icon" href="{{ site.baseurl }}/img/favicon.ico">
-	<link rel="apple-touch-icon" href="{{ site.baseurl }}/img/apple-touch-icon.png">
+	<!--change this to serve from gh pages -->
+	<link rel="shortcut icon" href="https://p2pu.org/static/images/favicon.ico">
+	<link rel="apple-touch-icon" href="https://p2pu.org/static/images/apple-touch-icon.png">
 
 	<link rel="stylesheet" href="{{ site.baseurl }}/css/p2pustrap-custom.css" />
 	<link rel="stylesheet" href="{{ site.baseurl }}/css/site.css" />
-  {% if page.extra_css %}
-    {% for css in page.extra_css %}
-    <link rel="stylesheet" href="{{ site.baseurl }}{{ css }}" />
-    {% endfor %}
-  {% endif %}
-
 	<link rel="shortcut icon" href="{{ site.baseurl }}/img/favicon.ico">
 	<script type="text/javascript" src="{{ site.baseurl }}/js/modernizr-2.6.2.min.js"></script>
+
+	<link rel="stylesheet" href="{{ site.baseurl }}/css/hljs.custom.css" />
+	<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script>
+	<script>hljs.initHighlightingOnLoad();</script>
 </head>
 <body {% if page.itemtype %}itemscope itemtype="{{ page.itemtype }}"{% endif %}
       class="{{ page.body-class }}">
@@ -47,38 +41,19 @@
 <script>
   window.jQuery || document.write('<script src="{{ site.baseurl }}/js/jquery.min.js"><\/script>')
 </script>
-
 <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+<script src="{{site.baseurl}}/js/gh_link_helper.js"></script>
+<script src="{{site.baseurl}}/js/localhost_link_helper.js"></script>
 <script type="text/javascript"
         src="//s3.amazonaws.com/p2pu-navigation-widget/p2pu_menu_slider.js"></script>
-<script src="{{site.baseurl}}/js/init.js"></script>
-<script src="{{site.baseurl}}/js/gh_link_helper.js"></script>
-
-{% if page.extra_js %}
-  {% for js in page.extra_js %}
-    <script src="{{site.baseurl}}{{js}}"></script>
-  {% endfor %}
-{% endif %}
-
-<script>
-	P2PU.ciab.init();
-</script>
-
-{% if page.url == '/index.html' %}
-<script src="{{site.baseurl}}/js/can.js"></script>
-<script src="{{site.baseurl}}/js/calendar.js"></script>
-<script type="text/javascript" src="https://addthisevent.com/libs/1.5.8/ate.min.js"></script>
 <script type="text/javascript">
-  var get_calendar = function () {
-    P2PU.ciab.calendar({
-        api_key: 'AIzaSyAs69MGQu7Bp8LCpeGZlhsoUwkFoD3sUro',
-        calendar_id: 'p2pu.org_bdbg1p5olhp0eo83mnqi7fvpfs@group.calendar.google.com'
-    });
-  }
+	$(".p2pu-tab").p2puSlider({
+		navbarContainer: '.navbar',
+		icon: '.p2pu-tab-icon',
+		iconUp: 'fa fa-chevron-down',
+		iconDown: 'fa fa-chevron-up'
+	});
 </script>
-<script src="https://apis.google.com/js/client.js?onload=get_calendar"></script>
-{% endif %}
-
 <!-- Google Analytics -->
 {% if site.ga_tracking_code or site.p2pu_ga_tracking_code %}
 	{% include ga.html %}
@@ -86,3 +61,4 @@
 
 </body>
 </html>
+
