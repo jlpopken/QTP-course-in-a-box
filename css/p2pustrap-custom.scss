@@ -2,7 +2,13 @@
 ---
 
 @import "//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css";
+@import "p2pu-css-framework/p2pustrap";
 
+{% if site.jumbotron_color %}
+	$jumbotron-color: {{ site.jumbotron_color }};
+{% else %}
+ $jumbotron-color: red;
+{% endif %}
 
 {% if site.jumbotron_background_image %}
 	$jumbotron-image: '{{ site.jumbotron_background_image }}';
