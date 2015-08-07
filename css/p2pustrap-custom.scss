@@ -8,7 +8,7 @@
 {% if site.jumbotron_color %}
 	$jumbotron-color: {{ site.jumbotron_color }};
 {% else %}
- $jumbotron-color: $p2pu-blue;
+ $jumbotron-color: red;
 {% endif %}
 
 {% if site.jumbotron_background_image %}
