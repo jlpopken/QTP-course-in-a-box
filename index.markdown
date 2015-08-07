@@ -1,6 +1,6 @@
 ---
 layout: index
-published: false
+published: true
 ---
 
 
