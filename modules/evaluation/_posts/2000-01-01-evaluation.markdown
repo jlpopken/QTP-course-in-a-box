@@ -1,17 +1,7 @@
 ---
-title: How will this course work?
+title: Evaluation
 ---
 
-#What will you need?
+#Evaluation
 
---------------------------------------------------------------------------------
-
-1.Estimated time to complete this lab is 1 hour.
-
-2.This lab is aimed towards anyone wanting to learn more about the development cycle.
-
-3.This lab is self-guided.
-
-
-**Doing the course at your own pace does not mean that you have to do the course on your own.** From past experience we know that people who create courses together are much more likely to succeed and enjoy doing it. Doing it alone can easily feel like pulling teeth.
-
+Here the application is moved to a production system or published to the internet. With users using the system in real time in a real environment the cycle may begin again. Users may find defects of bugs in the application and send them back to the developer. The users may also decided down the road that further functionality is required.
