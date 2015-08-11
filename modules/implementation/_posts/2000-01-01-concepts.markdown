@@ -6,7 +6,7 @@ title: Implementation
 
 --------------------------------------------------------------------------------
 
-Here the developer takes all the documentation and mock ups of the request and begins to actually build. As part of the coding process the developer must also add comments to the code so that any future maintenance of the application goes as smoothly as possible. If the application requires any new interfaces, data exchange, or any other work needed besides the actual application itself.
+Here the developer takes all the documentation and mock ups of the request and begins to actually build and code the application. As part of the coding process the developer must also add comments to the code so that any future maintenance of the application goes as smoothly as possible. 
 
 ![alt text](http://sealiehoo.com/images/Implement.jpg "Calculator 1")
 
