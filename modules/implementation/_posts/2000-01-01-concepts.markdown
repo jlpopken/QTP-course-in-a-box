@@ -1,17 +1,10 @@
 ---
-title: How will this course work?
+title: Implementation
 ---
 
-#What will you need?
+#Implementation
 
 --------------------------------------------------------------------------------
 
-1.Estimated time to complete this lab is 1 hour.
-
-2.This lab is aimed towards anyone wanting to learn more about the development cycle.
-
-3.This lab is self-guided.
-
-
-**Doing the course at your own pace does not mean that you have to do the course on your own.** From past experience we know that people who create courses together are much more likely to succeed and enjoy doing it. Doing it alone can easily feel like pulling teeth.
+Here the developer takes all the documentation and mock ups of the request and begins to actually build. As part of the coding process the developer must also add comments to the code so that any future maintenance of the application goes as smoothly as possible. If the application requires any new interfaces, data exchange, or any other work needed besides the actual application itself.
 
