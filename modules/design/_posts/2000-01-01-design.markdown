@@ -11,7 +11,7 @@ Design and user experience take the focus in this next step. How should this new
 - less training time and cost
 - less errors
 - less additional development requests
-- 
+
 Going over a visual "mock up" of the proposed design is always a good idea. A picture is worth more than a thousand words.
 The first mock up of the new calculator application looked like this: 
 
