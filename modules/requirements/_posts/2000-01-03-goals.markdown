@@ -13,4 +13,4 @@ title: Goals of requirements analysis
 - Establish schedules and constraints
   
 
-![alt text](http://cdn2.hubspot.net/hub/354606/file-589074127-jpg/blog-files/1920width/RequirementsChecklist.jpg "Requirements Analysis")
+![alt text](http://www.prevention.com/sites/prevention.com/files/images/news/featured_images/checklist-628x363.jpg "Requirements Analysis")
