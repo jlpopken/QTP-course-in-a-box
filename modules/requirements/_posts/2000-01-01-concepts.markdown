@@ -9,10 +9,10 @@ title: Requirements
 The first thing IT does with a new development request is analyze the requirements. This simply means that IT tries to fully understand the request and how it would affect the systems in place, the company, and the users.
 
 That involves determining: 
-  - if this new request would possibly conflict with another system or company standard. 
-  - if something already developed can be leveraged or if a solution already exists 
-  - the development request's full functionality and purpose 
-  - user expectations
+ - if this new request would possibly conflict with another system or company standard. 
+ - if something already developed can be leveraged or if a solution already exists 
+ - the development request's full functionality and purpose 
+ - user expectations
 
 
 This part is critical to the success and timeliness of the development. Having a clear picture of the ask is important. That is why the requirements should be documented as thoroughly as possible in this planning phase.
