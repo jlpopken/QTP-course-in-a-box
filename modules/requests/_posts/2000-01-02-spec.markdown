@@ -1,4 +1,8 @@
 
 #The Development Spec
 
-![alt text](http://www.tampaymca.info/2cmby/images/images/Calculator_01.jpg "Calculator")
+Application Name: Finance Calculator
+Business Owner: Frank Smith
+Priority: low
+
+Desired Functionality: The calculator must be able to add, subtract, muliple, divide, and raise numbers to a power. It must also have a custom percentage function so instead of getting the percentage out of 100 it gets the percentage for out of 75. 
