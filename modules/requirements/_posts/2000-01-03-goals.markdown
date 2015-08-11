@@ -1,0 +1,16 @@
+---
+title: Goals of requirements analysis
+---
+
+#Goals of requirements analysis
+
+--------------------------------------------------------------------------------
+
+- Identify customer's needs
+- Determine the feasibility of the ask
+- Analyze the economic, functional, and technical impacts
+- Allocate resources
+- Establish schedules and constraints
+  
+
+![alt text](http://cdn2.hubspot.net/hub/354606/file-589074127-jpg/blog-files/1920width/RequirementsChecklist.jpg "Requirements Analysis")
