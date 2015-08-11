@@ -5,12 +5,14 @@ title: Analysis
 #Analysis
 
 Functionality requirements to address:
+--------------------------------------------------------------------------------
 * Required Input
 * Required Output
 * Processing, logic, and calculations needed internally
 * Error Handling
 
 Application requirements to address:
+--------------------------------------------------------------------------------
 * Physical environment (equipment, location, ect)
 * Interfaces
 * Expected performance
