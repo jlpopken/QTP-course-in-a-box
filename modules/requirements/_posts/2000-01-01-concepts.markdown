@@ -1,16 +1,14 @@
 ---
-title: How will this course work?
+title: Requirements
 ---
 
-#What will you need?
+#Requirements
 
 --------------------------------------------------------------------------------
 
-1.Estimated time to complete this lab is 1 hour.
+The first thing IT does with a new development request is analyze the requirements. This simple means that IT tries to fully understand the request and how it would affect the systems in place, the company, and the users.
+That involves determining: - if this new request would possibly conflict with another system or company standard. - if something already developed can be leveraged or if a solution already exists - the development request's full functionality and purpose - user expectations
 
-2.This lab is aimed towards anyone wanting to learn more about the development cycle.
+This part is critical to the success and timeliness of the development. Having a clear picture of the ask is important. That is why the requirements should be documented as thoroughly as possible in this planning phase.
 
-3.This lab is self-guided.
-
-
-**Doing the course at your own pace does not mean that you have to do the course on your own.** From past experience we know that people who create courses together are much more likely to succeed and enjoy doing it. Doing it alone can easily feel like pulling teeth.
+![alt text](https://infomatrix.com/images/stories/flowchart.jpg "Requirements Analysis")
