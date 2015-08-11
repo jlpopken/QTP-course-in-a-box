@@ -17,7 +17,7 @@ The first mock up of the new calculator application looked like this:
 
 ![alt text](http://i60.tinypic.com/1568ndl.png "Calculator 1")
 
-But the customer decided it was confusing for the customer percent button to look like a normal percentage button so they had us change it to better highlight that it was a custom function. 
+But the customer decided it was confusing for the customer percent button to look like a normal percent button so they wanted to change it to better highlight that it was a custom function. 
 
 ![alt text](http://i62.tinypic.com/xeq6af.png "Calculator 2")
 
