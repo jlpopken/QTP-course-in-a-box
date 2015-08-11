@@ -8,7 +8,7 @@ title: Goals of requirements analysis
 
 - Identify customer's needs
 - Determine the feasibility of the ask
-- Analyze the economic, functional, and technical impacts
+- Analyze the financial, functional, and technical impacts
 - Allocate resources
 - Establish schedules and constraints
   
