@@ -1,16 +1,24 @@
 ---
-title: How will this course work?
+title: Design
 ---
 
-#What will you need?
+#Design
 
---------------------------------------------------------------------------------
+Design and user experience take the focus in this next step. How should this new development look? Is the process flow simple and intuitive?
+- A good user experience leads to:
+- better productivity
+- better user satisfaction
+- less training time and cost
+- less errors
+- less additional development requests
+- 
+Going over a visual "mock up" of the proposed design is always a good idea. A picture is worth more than a thousand words.
+The first mock up of the new calculator application looked like this: 
 
-1.Estimated time to complete this lab is 1 hour.
+![alt text](http://i60.tinypic.com/1568ndl.png "Calculator 1")
 
-2.This lab is aimed towards anyone wanting to learn more about the development cycle.
+But the customer decided it was confusing for the customer percent button to look like a normal percentage button so they had us change it to better highlight that it was a custom function. 
 
-3.This lab is self-guided.
+![alt text](http://i62.tinypic.com/xeq6af.png "Calculator 2")
 
-
-**Doing the course at your own pace does not mean that you have to do the course on your own.** From past experience we know that people who create courses together are much more likely to succeed and enjoy doing it. Doing it alone can easily feel like pulling teeth.
+This is just one simple example. In a real development situation IT and the customer would revise a design mock up several times before agreeing on it. 
