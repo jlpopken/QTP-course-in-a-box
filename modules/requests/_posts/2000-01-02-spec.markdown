@@ -1,5 +1,7 @@
-*************************
-*title: The development spec
-**************************
+---
+title: The Development Spec
+---
 
-#The development spec
+#The Development Spec
+
+![alt text](http://www.tampaymca.info/2cmby/images/images/Calculator_01.jpg "Calculator")
