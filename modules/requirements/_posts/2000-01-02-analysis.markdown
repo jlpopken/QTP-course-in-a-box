@@ -6,6 +6,16 @@ title: Analysis
 
 --------------------------------------------------------------------------------
 
+Functionality requirements to address:
+  - Required Input
+  - Requiree Output
+  - Processing, logic, and calculations needed internally
+  - Error Handling
 
+Application requirements to address:
+  - Physical environment (equipment, location, ect)
+  - Interfaces
+  - Expected performance
+  
 
-![alt text](https://infomatrix.com/images/stories/flowchart.jpg "Requirements Analysis")
+![alt text](http://www.altusinsight.de/wp-content/uploads/2015/04/AltusInsight_Requirement_Analysis-1140x590.jpg "Requirements Analysis")
