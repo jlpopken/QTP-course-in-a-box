@@ -9,7 +9,7 @@ Functionality requirements to address:
 
 - Required Input
 - Required Output
-- Processing, logic, and calculations needed internally
+- Processing, logic, and calculations needed
 - Error Handling
 
 
