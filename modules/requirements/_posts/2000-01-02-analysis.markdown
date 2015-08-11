@@ -13,7 +13,7 @@ Functionality requirements to address:
 - Error Handling
 
 
-Application requirements to address:
+Technical requirements to address:
 --------------------------------------------------------------------------------
 
 - Physical environment (equipment, location, ect)
