@@ -5,6 +5,7 @@ title: The Development Request
 #The Development Request
 
 --------------------------------------------------------------------------------
+It all starts with a request. 
 
 Let's say a customer comes to IT development with a request for some brand new software. For the purposes of this course, we will say the request is a new calculator application. This course will focus on the process IT follows to deliver this new software.
 
