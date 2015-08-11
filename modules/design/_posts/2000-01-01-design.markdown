@@ -4,8 +4,9 @@ title: Design
 
 #Design
 
-Design and user experience take the focus in this next step. How should this new development look? Is the process flow simple and intuitive? A good user experience leads to:
-
+Design and user experience take the focus in this next step. How should this new development look? Is the process flow simple and intuitive? Is the experience using the aplication pleasant or frustrating? 
+A good user experience leads to:
+-----------------------------------------------------------------
 - better productivity
 - better user satisfaction
 - less training time and cost
