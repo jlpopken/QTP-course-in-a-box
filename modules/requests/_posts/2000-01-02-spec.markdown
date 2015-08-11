@@ -7,4 +7,4 @@ Business Owner: Frank Smith
 
 Priority: low
 
-Desired Functionality: The calculator must be able to add, subtract, muliple, divide, and raise numbers to a power. It must also have a custom percentage function so instead of getting the percentage out of 100 it gets the percentage for out of 75. 
+Desired Functionality: The calculator must be able to add, subtract, muliple, divide, and raise numbers to a power. It must also have a custom percentage function so instead of getting the percentage out of 100 it gets the percentage for out of 75.  Example: if the input is 51 then the custom percentage should return 68% ((51 / 75) * 100). 
