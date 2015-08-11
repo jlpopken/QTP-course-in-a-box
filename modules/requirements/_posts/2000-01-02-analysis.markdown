@@ -11,9 +11,9 @@ Functionality requirements to address:
 * Error Handling
 
 Application requirements to address:
---* Physical environment (equipment, location, ect)
---* Interfaces
---* Expected performance
+* Physical environment (equipment, location, ect)
+* Interfaces
+* Expected performance
   
 
 ![alt text](http://www.altusinsight.de/wp-content/uploads/2015/04/AltusInsight_Requirement_Analysis-1140x590.jpg "Requirements Analysis")
