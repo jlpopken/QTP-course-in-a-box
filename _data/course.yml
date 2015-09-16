@@ -1,5 +1,5 @@
-title: "How Development Happens"
-description: "What really happens in development?"
+title: "QTP/UFT"
+description: "Get up to spped with Automated Testing"
 modules: [start, requests, requirements, design, implementation, testing, evaluation]
 authors: ["Jeanette Popken"]
 signups:
