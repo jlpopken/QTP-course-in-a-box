@@ -1,1 +1,20 @@
-<title>intro</title>
+---
+title: Introduction
+---
+
+#Introduction
+
+HP Quick Test Professional (QTP) and Unified Functional Testing (UFT) are testing tools that help automate functional and regression testing. They are also good tools to automate data entry or data validation. They are popular tools because they can easily record and playback scripts. These scripts can then easily be modified or enhanced with extra logic or checks. They can test web applications, desktop applications, and SAP applications. 
+
+QTP/UFT uses a scripting language called VBscript. 
+
+
+Advantages of Automated Testing:
+-----------------------------------------------------------------
+- Save Time 
+- Test faster
+- Repeat as many times as you'd like
+- Great test coverage
+- Consistency
+- Reusable
+
