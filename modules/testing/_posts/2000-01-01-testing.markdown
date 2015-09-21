@@ -1,6 +1,0 @@
-
-#Testing
-
-The developer tests the code as they write it to make sure the code itself is working, but here testing refers to the customer testing the application. If the design phase was done well then hopefully the customer will have little need to make big adjustments. The performance, usability, and functionality of the application should be tested here to ensure the application meets expectations.
-
-![alt text](http://blogs.vmware.com/storage/files/2015/07/testing.png "Testing")
