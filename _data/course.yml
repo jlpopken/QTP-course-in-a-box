@@ -1,6 +1,6 @@
 title: "QTP/UFT"
 description: "Get up to spped with Automated Testing"
-modules: [start, requests, requirements, design, implementation, testing, evaluation]
+modules: [introduction, record, modify, results, reporting]
 authors: ["Jeanette Popken"]
 signups:
  - name : Jeanette Popken
