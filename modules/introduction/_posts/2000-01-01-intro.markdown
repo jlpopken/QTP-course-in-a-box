@@ -4,17 +4,30 @@ title: Introduction
 
 #Introduction
 
-HP Quick Test Professional (QTP) and Unified Functional Testing (UFT) are testing tools that help automate functional and regression testing. They are also good tools to automate data entry or data validation. They are popular tools because they can easily record and playback scripts. These scripts can then easily be modified or enhanced with extra logic or checks. They can test web applications, desktop applications, and SAP applications. 
+HP Quick Test Professional (QTP) and Unified Functional Testing (UFT) are testing tools that help automate functional and regression testing. They are also good tools to automate data entry or data validation. 
 
-QTP/UFT uses a scripting language called VBscript. 
+The QTP application evolved into the UFT application in version 11.5. What this really means is that UFT 11.5 combined QTP and another HP application called Service Test which was testing geared more towards APIs. 
+
+They are popular tools because they can easily record and playback scripts. These scripts can then easily be modified or enhanced with extra logic or checks. They can test web applications, desktop applications, and SAP applications. 
+
+QTP/UFT uses a scripting language called VBscript. It was developed by Microsoft in 1996. 
 
 
-Advantages of Automated Testing:
+Advantages of QTP/UFT:
 -----------------------------------------------------------------
-- Save Time 
-- Test faster
-- Repeat as many times as you'd like
-- Great test coverage
-- Consistency
-- Reusable
+- VBScript is easy to understand and learn
+- Record and Playback allows you to easily edit the recorded scripts
+- Object Identification helps you identify objects on the screen
+- Support for many different addins 
+- Supports all popular testing automation frameworks
+- Comes with its very own IDE
+- Supports Document Object Model (DOM)
+
+
+Disadvantages of QTP/UFT:
+-----------------------------------------------------------------
+- Licenses are expensive
+- Cannot run multiple instances at once
+- Execution can be a little slow
+- You need to buy the different addins that you need
 
