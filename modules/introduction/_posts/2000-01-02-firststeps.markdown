@@ -2,7 +2,7 @@
 title: firststeps
 ---
 
-#firststeps
+#First Steps
 
 Design and user experience take the focus in this next step. How should this new development look? Is the process flow simple and intuitive? Is the experience using the aplication pleasant or frustrating? 
 A good user experience leads to:
