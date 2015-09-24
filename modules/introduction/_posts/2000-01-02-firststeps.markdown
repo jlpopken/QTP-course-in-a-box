@@ -1,1 +1,26 @@
-<title>First Steps</title>
+---
+title: Design
+---
+
+#firststeps
+
+Design and user experience take the focus in this next step. How should this new development look? Is the process flow simple and intuitive? Is the experience using the aplication pleasant or frustrating? 
+A good user experience leads to:
+-----------------------------------------------------------------
+- better productivity
+- better user satisfaction
+- less training time and cost
+- less errors
+- less additional development requests
+
+Going over a visual "mock up" of the proposed design with the customer is always a good idea. A picture is worth more than a thousand words.
+The first mock up of the new calculator application looked like this: 
+
+![alt text](http://i60.tinypic.com/1568ndl.png "Calculator 1")
+
+The customer decided it was confusing for the custom percent button to look like a normal percent button so they wanted to change it to better highlight that it was a custom function. 
+
+![alt text](http://i62.tinypic.com/xeq6af.png "Calculator 2")
+
+This is just one simple example. In a real development situation, IT and the customer would revise a design mock up several times before agreeing on it. 
+
