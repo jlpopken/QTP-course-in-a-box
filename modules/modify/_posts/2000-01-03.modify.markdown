@@ -2,4 +2,4 @@
 title: Modify
 ---
 
-#Write values to a Spreadsheet
+#Write values to a spreadsheet
