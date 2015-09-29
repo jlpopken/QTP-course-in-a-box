@@ -1,6 +1,6 @@
 title: "QTP/UFT"
 description: "QTP/UFT Lab"
-modules: [introduction, record, modify, results, reporting]
+modules: [start, introduction, record, modify, results, references]
 authors: ["Jeanette Popken"]
 signups:
  - name : Jeanette Popken
