@@ -1,6 +1,6 @@
 ---
-title: Modify
+title: Working with COM - Component Object Model
 ---
 
-#Working with DOM
+#Working with COM - Component Object Model
 
