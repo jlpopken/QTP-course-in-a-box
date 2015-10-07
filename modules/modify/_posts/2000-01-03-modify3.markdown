@@ -20,6 +20,7 @@ The Properties/Values pair:
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10351326/8c271ebc-6d0e-11e5-9347-dc136ec29558.PNG "Pair")
 
+We are going to choose the GetROProperty because RO means RunTime. So this is saying get the value of the property you pass this method (we are going to be passing "text") at the run time of the script. 
 The Method:
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10351336/9b368618-6d0e-11e5-96c3-0529177d5d6e.PNG "Method")
@@ -33,7 +34,7 @@ Nest hierarchy:
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10351527/9f005408-6d0f-11e5-9f91-dcb0994dd0bb.PNG "NewCode")
 
-This line of code is writing the captured value of price as it is as our test is running to our column on the global datatable called "PRICE." 
+This line of code is writing the captured value of price (as the script is running) to our column on the global datatable called "PRICE." 
 
 
 
