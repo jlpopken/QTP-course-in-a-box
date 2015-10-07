@@ -2,6 +2,6 @@
 title: Record
 ---
 
-#Recording a Script - SAP
+#Recording a Script - Flight
 
 <iframe width="660" height="415" src="https://www.youtube.com/embed/TVE9mPlsFso" frameborder="0" allowfullscreen></iframe>
