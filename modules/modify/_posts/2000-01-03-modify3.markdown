@@ -17,8 +17,12 @@ Then we will use the object spy to point to the element we want to capture the v
 First we find the Properties/Values pair that has the information we want. The price. Then we switch from the properties tab to the operations tab to find the method we will be using. 
 
 The Properties/Values pair:
+
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10351326/8c271ebc-6d0e-11e5-9347-dc136ec29558.PNG "Pair")
 
 The Method:
+
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10351336/9b368618-6d0e-11e5-96c3-0529177d5d6e.PNG "Pair")
+
+
 
