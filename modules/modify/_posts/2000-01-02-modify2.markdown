@@ -14,3 +14,5 @@ We are going to change them to this:
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10350893/34714c4e-6d0c-11e5-90d1-6b0356da8d21.PNG "ReadValues")
 
+Now we are using the values from the spreadsheet.
+
