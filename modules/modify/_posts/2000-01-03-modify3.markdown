@@ -13,3 +13,12 @@ First, we need to add a header to our spreadsheet but we won't be putting in any
 Then we will use the object spy to point to the element we want to capture the value during runtime. In this case, I selected the first box that is titled "price." 
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10351229/f79cd03e-6d0d-11e5-9bb7-adc5cdb799c5.PNG "PriceBox")
+
+First we find the Properties/Values pair that has the information we want. The price. Then we switch from the properties tab to the operations tab to find the method we will be using. 
+
+The Properties/Values pair:
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10351326/8c271ebc-6d0e-11e5-9347-dc136ec29558.PNG "Pair")
+
+The Method:
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10351336/9b368618-6d0e-11e5-96c3-0529177d5d6e.PNG "Pair")
+
