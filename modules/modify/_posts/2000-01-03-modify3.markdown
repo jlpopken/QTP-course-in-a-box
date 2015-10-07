@@ -34,6 +34,10 @@ Referring to the nested hierarchy at the top of object spy's results, we will ad
 
 This line of code is writing the captured value of price (as the script is running) to our column on the global datatable called "PRICE." This then gets exported at the end with our global datatable. 
 
+After we re-play our script, the exported spreadsheet looks like this:
+
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10352060/7f86c2b2-6d12-11e5-8b94-5ca66e0432cb.PNG "Exported")
+
 
 
 
