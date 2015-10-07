@@ -8,8 +8,8 @@ Now let's open up the Flight application. Let's say that we want to read in valu
 
 First, we need to add a header to our spreadsheet but we won't be putting in any values, our script will do that. 
 
-![alt text](https://cloud.githubusercontent.com/assets/10998057/10351229/f79cd03e-6d0d-11e5-9bb7-adc5cdb799c5.PNG "Price")
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10351235/0162c826-6d0e-11e5-8e42-9bf5e2576eb3.PNG "Price")
 
 Then we will use the object spy to point to the element we want to capture the value during runtime. In this case, I selected the first box that is titled "price." 
 
-![alt text](https://cloud.githubusercontent.com/assets/10998057/10351235/0162c826-6d0e-11e5-8e42-9bf5e2576eb3.PNG "PriceBox")
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10351229/f79cd03e-6d0d-11e5-9bb7-adc5cdb799c5.PNG "PriceBox")
