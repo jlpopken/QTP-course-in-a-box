@@ -3,3 +3,9 @@ title: Read Values from a spreadsheet
 ---
 
 #Read in values from a spreadsheet
+
+Now that we are importing our spreadsheet, let's have our test script use the values from the datatable for username and password. 
+
+When we recorded we got the following lines of code for the login window:
+
+https://cloud.githubusercontent.com/assets/10998057/10350831/debe7bf0-6d0b-11e5-880d-ce8be3083dec.PNG
