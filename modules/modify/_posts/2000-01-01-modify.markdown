@@ -22,5 +22,11 @@ Save your spreadsheet so you can access it from your test script. (Note. If you 
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10349993/2c4dc7d6-6d07-11e5-8577-8af76de50b5a.PNG "DataTable")
 
+5. At the end of your script add the following line to export the global datatable. I name it something different so it does not override the original. 
+
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10350672/fd1dd1dc-6d0a-11e5-99b5-ffdbfc98667a.PNG "Export")
+
+
+
 
 
