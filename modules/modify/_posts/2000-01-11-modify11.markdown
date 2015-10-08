@@ -1,6 +1,6 @@
 ---
-title: Descritive Programming
+title: Descriptive Programming
 ---
 
-#Descritive Programming
+#Descriptive Programming
 
