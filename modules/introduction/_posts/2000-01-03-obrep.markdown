@@ -5,3 +5,5 @@ title: Object Repository
 #Object Repository
 
 
+The Object Repository is the collection of property/value pairs that represent an object. This is how QTP will be able to identity the objects and interactive with them. When a user records a test script, the object's property/value pairs are captured at runtime.
+
