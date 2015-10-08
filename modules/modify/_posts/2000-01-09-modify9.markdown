@@ -1,6 +1,14 @@
 ---
-title: Environment Variables/Parameters
+title: Environment Variables
 ---
 
-#Environment Variables/Parameters
+#Environment Variables
+
+Environment Variables are special variables that can be used by all actions, function libraries and recovery Scenarios. So they are kind of like Window's environment variables except that QTP environment variables are only available to QTP while Window's environment variables are available to any application running on the system. 
+
+There are built in environment variables (pre-defined) and there are user-defined ones. 
+
+In QTP click on File -> Settings 0> Environment
+
+
 
