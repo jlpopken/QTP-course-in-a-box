@@ -6,3 +6,10 @@ title: Case
 
 Let's say we need to test for a lot of specific values. You woul have to write alot of if/else statements. Or you could just use a case statement. Like this:
 
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10371606/cf2b1d4e-6da9-11e5-9f25-4821337218f1.PNG "NewOrder")
+
+Here we are testing for several different prices. When it finds the value that corresponds to the current value of Price then it executes only the code for that case. 
+
+This is the exported spreadsheet with the results:
+
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10371702/365f5f84-6daa-11e5-9067-9e561a456c04.PNG "NewOrder")
