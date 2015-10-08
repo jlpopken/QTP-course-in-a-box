@@ -46,7 +46,7 @@ It then adds a line of code to your test script:
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10372679/a1e85e6e-6dae-11e5-8f40-c0addcf936f0.PNG "Checkpoint")
 
-But we need to modify it a bit. Let's say your test runs and that login box is not there. The script will just error out. Let's put in a if/else statement so that we can control what happens when the checkpoint passes and when the checkpoint fails. 
+But we need to modify it a bit. Let's say your test runs and that login box is not there. The script will just error out. Let's put in an if/else statement so that we can control what happens when the checkpoint passes and when the checkpoint fails. 
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10373119/0acfdc8e-6db1-11e5-8011-1777f21e233f.PNG "Modify")
 
