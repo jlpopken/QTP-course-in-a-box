@@ -4,3 +4,6 @@ title: Loops
 
 #Loops
 
+Often times in scripts, we will want to repeat or loop through something so we can do this multiple times. In this case we are going to add a loop into our script so that it creates more than one order. 
+
+First we will need to record a few more steps in our Flight application. After we insert the order, we will need to record clicking on the "new order" button. 
