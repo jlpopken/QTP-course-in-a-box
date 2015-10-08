@@ -4,3 +4,5 @@ title: Case
 
 #Case
 
+Let's say we need to test for a lot of specific values. You woul have to write alot of if/else statements. Or you could just use a case statement. Like this:
+
