@@ -8,4 +8,37 @@ Often times in scripts, we will want to repeat or loop through something so we c
 
 First we will need to record a few more steps in our Flight application. After we insert the order, we will need to record clicking on the "new order" button.  
 
-https://cloud.githubusercontent.com/assets/10998057/10368226/eba0013e-6d99-11e5-9e87-78ea7badfe28.PNG
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10368226/eba0013e-6d99-11e5-9e87-78ea7badfe28.PNG "NewOrder")
+
+Now we need to add some looping logic. First we are going to add another column to our spreadsheet. We can call it "DATE" and we will list several dates. We will configure our script loop through our spreadsheet and create a new order for each date. 
+
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10369603/c5facf34-6da0-11e5-8646-68e826dfe0e1.PNG "Dates")
+
+Now we will add some VBScript code that will declare the variable we will use. 
+
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10370278/b19d51c6-6da3-11e5-8af3-726f7a952247.PNG "Variable")
+
+We will use the variable RowCount to hold the initial number of rows, in this case 3.
+
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10370276/b19cb748-6da3-11e5-9b44-15f5db579ca4.PNG "RowCount")
+
+Then we will start our loop. 
+
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10370277/b19cff00-6da3-11e5-9107-4a11dd0fdc40.PNG "LoopStart")
+
+After we complete the actions of our loop we need to tell our script to go to the next row, count down our RowCount, and then do it again until our RowCount is 0 When our RowCount is 0 the loop will end. 
+
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10370279/b19ffdd6-6da3-11e5-9699-0c657a7c1b45.PNG "LoopEnd")
+
+This is what the total script looks like:
+
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10370388/273ef36c-6da4-11e5-8496-fd2529be9a90.PNG "Total")
+
+This is what our exported spreadsheet looks like, note that is captured all 3 prices:
+
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10370415/4ded94aa-6da4-11e5-89d5-d80a204bcfac.PNG "Output")
+
+
+
+
+
