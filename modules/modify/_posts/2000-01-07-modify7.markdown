@@ -4,3 +4,21 @@ title: Checkpoints
 
 #Checkpoints
 
+Checkpoints are a validation point that is used to compare the current value of specified properties with the expected value. It's a good way to double check that your script is getting or doing the right thing. 
+
+There are several different kinds of checkpoints:
+-----------------------------------------------------------
+-Standard Checkpoint (Objects)
+-Bitmap Checkpoint
+-File Content Checkpoint
+-Table Checkpoint
+-Text Checkpoint
+-Text Area Checkpoint
+-Accessibility Checkpoint
+-Page Checkpoint
+-Database Checkpoint
+-XML Checkpoint
+
+For our example we are going to use a standard checkpoint which just checks the current object's propterty/value pairs with the expected property/value pairs. We are going to use our checkpoint to make sure the login window for Flight is open. So have the login in window open for Flight, click Record on QTP and then click on Insert -> Checkpoint -> Standard Object.
+
+
