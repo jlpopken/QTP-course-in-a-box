@@ -42,7 +42,7 @@ Make sure if got the element you wanted and then click ok.
 
 This then shows you the captured property/value pairs it will use as the expected values that it will compare against runtime values. 
 
-It then adds a line of code to your test script:
+QTP will then generate a line of code to your test script:
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10372679/a1e85e6e-6dae-11e5-8f40-c0addcf936f0.PNG "Checkpoint")
 
