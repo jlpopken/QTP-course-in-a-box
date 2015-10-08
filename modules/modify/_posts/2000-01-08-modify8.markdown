@@ -8,3 +8,17 @@ As your test scripts run, they will some times run into unexpected problems or e
 
 Click on Resources -> Recovery Scenario Manager
 
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10376800/7ba97352-6dc5-11e5-8579-acb23a4b4f03.png "RecoveryManager")
+
+Click on the new recovery scenario button
+
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10376839/b8536a1a-6dc5-11e5-8529-a8223a098bd9.PNG "RecoveryManagerNew")
+
+This opens up the recovery scenario wizard:
+
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10376887/f5c6137a-6dc5-11e5-8400-e2683473c116.PNG "RecoveryManagerNew")
+
+For this example, we will be putting in yesterday's date and this will cause a pop-up window stating that this is an incorrect date. So we want to select the pop-up window event at our trigger. 
+
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10376972/4eabcf7a-6dc6-11e5-8e4b-0fc334c0ed4e.PNG "RecoveryManagerNew")
+
