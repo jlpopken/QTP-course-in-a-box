@@ -32,7 +32,7 @@ After we complete the actions of our loop we need to tell our script to go to th
 
 This is what the total script looks like:
 
-![alt text](https://cloud.githubusercontent.com/assets/10998057/10370388/273ef36c-6da4-11e5-8496-fd2529be9a90.PNG "Total")
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10370936/ab7dad9c-6da6-11e5-9207-bf8ea3be02f9.PNG "Total")
 
 This is what our exported spreadsheet looks like, note that is captured all 3 prices:
 
