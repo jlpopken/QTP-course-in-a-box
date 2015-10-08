@@ -30,9 +30,28 @@ There are several different kinds of checkpoints:
 
 For our example we are going to use a standard checkpoint which just checks the current object's propterty/value pairs with the expected property/value pairs. We are going to use our checkpoint to make sure the login window for Flight is open. So have the login in window open for Flight, click Record on QTP and then click on Insert -> Checkpoint -> Standard Object.
 
-![alt text](https://cloud.githubusercontent.com/assets/10998057/10372472/82d6854c-6dad-11e5-9c10-eb4c7096510b.png "NewOrder")
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10372617/446b1fa6-6dae-11e5-9817-76ed7c72c64b.png "InsertCheckpoint")
 
 Once you do that, your mouse will be a pointer so that whatever you next click on will be the object it chooses for the checkpoint. I clikced on the login window.
 
-![alt text](https://cloud.githubusercontent.com/assets/10998057/10372467/7da9e154-6dad-11e5-928b-eb1d6d52a882.PNG "NewOrder")
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10372467/7da9e154-6dad-11e5-928b-eb1d6d52a882.PNG "Selection")
+
+Make sure if got the element you wanted and then click ok.
+
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10372466/7d9a27b4-6dad-11e5-855c-a415d41eb480.PNG "Properties")
+
+This then shows you the captured property/value pairs it will use as the expected values that it will compare against runtime values. 
+
+It then adds a line of code to your test script:
+
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10372679/a1e85e6e-6dae-11e5-8f40-c0addcf936f0.PNG "Checkpoint")
+
+But we need to modify it a bit. Let's say your test runs and that login box is not there. The script will just error out. Let's put in a if/else statement so that we can control what happens when the checkpoint passes and when the checkpoint fails. 
+
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10373119/0acfdc8e-6db1-11e5-8011-1777f21e233f.PNG "Modify")
+
+
+
+
+
 
