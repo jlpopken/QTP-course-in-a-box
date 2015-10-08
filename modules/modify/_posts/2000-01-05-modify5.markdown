@@ -4,3 +4,8 @@ title: If/Else
 
 #If/Else
 
+We can also use If/Else logic to only do something with our script if it does or doesn't meet a certain condition. In this example, we will use price. If the price is below $400 we will write to a new column that it is a low price. Or else, if the price is above $400 we will write that it is a high price. 
+
+Our code will look like this:
+
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10370716/c7c820aa-6da5-11e5-886b-4a2893585ced.PNG "IfElse")
