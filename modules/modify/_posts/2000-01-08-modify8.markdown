@@ -20,5 +20,7 @@ This opens up the recovery scenario wizard:
 
 For this example, we will be putting in yesterday's date and this will cause a pop-up window stating that this is an incorrect date. So we want to select the pop-up window event at our trigger. 
 
+
+
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10376972/4eabcf7a-6dc6-11e5-8e4b-0fc334c0ed4e.PNG "RecoveryManagerNew")
 
