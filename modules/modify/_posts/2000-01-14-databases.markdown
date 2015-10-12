@@ -30,31 +30,4 @@ MSPersist	- Locally saved files <br />
 SQLOLEDB	- Microsoft SQL Server <br />
 
 Example:
-Dim myConnection 
-'Create and Set Connection Object
-Set myConnection = CreateObject("ADODB.Connection")     
-Dim myRecordSet 
- 
-'Create and Set RecordSet Object
-Set myRecordSet = CreateObject("ADODB.Recordset")     
- 
- 'Set up Query
-Dim myQuery 
-myQuery = "Select NAME from dbo.EMPLOYEE where AGE = 29"
- 
-'Connecting to database
-myConnection.Open "Provider=providercode;Server=servername;User Id=userid;Password=password;Database=databasename"
- 
-'Run the Query
-myRecordSet.Open myQuery,myConnection
- 
-'Return the Result Set
-Value = myRecordSet.fields.item(0)				
-msgbox Value
- 
-'Close and Release
-myRecordSet.Close        
-myConnection.Close		
- 
-Set myConnection = Nothing
-Set myRecordSet = Nothing
+
