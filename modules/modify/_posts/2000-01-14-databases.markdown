@@ -16,7 +16,8 @@ ADODB.Fields - get a specific column from a record set after executing a query o
 
 ADODB.Recordset - get data from a database
 
-You will want to specify a Provider when using the connection method. Here is a list of Provider codes:
+You will want to specify a Provider when using the connection method. 
+###Here is a list of Provider codes:
 
 ADSDSOObject -	Active Directory Services <br />
 Microsoft.Jet.OLEDB.4.0	- Microsoft Jet databases <br />
