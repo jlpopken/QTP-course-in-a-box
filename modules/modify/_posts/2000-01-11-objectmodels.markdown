@@ -13,6 +13,8 @@ First we must create an instance of the object we want to use:
 
 #WSH - Windows Script Host Object Model
 
+You can use WSH to run a program, manipulate the contents of the registry, or send keyboard input.
+
 #DOM - Document Object Model
 
 #AOM - Automation Object Model
