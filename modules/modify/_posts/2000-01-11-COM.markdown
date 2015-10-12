@@ -4,7 +4,7 @@ title: Component Object Model
 
 #COM - Component Object Model
 
-COM is used to help interact with objects in many different programming languages. Since VBScript supports COM so does QTP. COM includes Microsoft technologies like: OLE, OLE Automation, ActiveX, COM+, DCOM, the Windows shell, DirectX, and Windows Runtime. COM helps us interact with Microsoft Objects like Word, Access, Excel, Outlook, Internet Explorer and the Windows File System Object, etc.
+COM is used to help interact with objects in many different programming languages. Since VBScript supports COM so does QTP. COM includes Microsoft technologies like: OLE, OLE Automation, ActiveX, COM+, DCOM, the Windows shell, DirectX, and Windows Runtime. COM helps us interact with Microsoft Objects like Word, Access, Excel, Outlook, Internet Explorer, the Windows File System Object, and the Windows Script Host Object.
 
 First we must create an instance of the object we want to use:
 
