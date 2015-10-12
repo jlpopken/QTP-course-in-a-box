@@ -23,7 +23,7 @@ Advantages of QTP/UFT:
 - Support for many different addins 
 - Supports all popular testing automation frameworks
 - Comes with its very own IDE
-- Supports Document Object Model (DOM)
+- Supports several different Object Models
 
 
 Disadvantages of QTP/UFT:
