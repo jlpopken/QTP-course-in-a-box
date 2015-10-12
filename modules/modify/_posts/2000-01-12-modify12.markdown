@@ -1,5 +1,5 @@
 ---
-title: Working with AOM - Automation Object Model
+title: Automation Object Model
 ---
 
 #Working with AOM - Automation Object Model
