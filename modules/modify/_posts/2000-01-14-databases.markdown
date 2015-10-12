@@ -19,14 +19,14 @@ ADODB.Recordset - get data from a database
 You will want to specify a Provider when using the connection method. Here is a list of Provider codes:
 
 ADSDSOObject -	Active Directory Services <br />
-Microsoft.Jet.OLEDB.4.0	- Microsoft Jet databases
-MSDAIPP.DSO.1	- Microsoft Internet Publishing
-MSDAORA	- Oracle databases
-MSDAOSP	- Simple text files
-MSDASQL	- Microsoft OLE DB provider for ODBC
-MSDataShape	- Microsoft Data Shape
-MSPersist	- Locally saved files
-SQLOLEDB	- Microsoft SQL Server
+Microsoft.Jet.OLEDB.4.0	- Microsoft Jet databases <br />
+MSDAIPP.DSO.1	- Microsoft Internet Publishing <br />
+MSDAORA	- Oracle databases <br />
+MSDAOSP	- Simple text files <br />
+MSDASQL	- Microsoft OLE DB provider for ODBC <br />
+MSDataShape	- Microsoft Data Shape <br />
+MSPersist	- Locally saved files <br />
+SQLOLEDB	- Microsoft SQL Server <br />
 
 Example:
 Dim myConnection 
