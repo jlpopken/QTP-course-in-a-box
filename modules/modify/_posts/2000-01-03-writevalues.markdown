@@ -4,6 +4,8 @@ title: Write values to a spreadsheet
 
 #Write values to a spreadsheet
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FTVLNOqgF74" frameborder="0" allowfullscreen></iframe>
+
 Now let's open up the Flight application. Let's say that we want to read in values at runtime and write them to our global spreadsheet that gets exported. For this exercise we will add some code that will capture the price of the order. 
 
 First, we need to add a header to our spreadsheet but we won't be putting in any values, our script will do that. 
