@@ -1,5 +1,5 @@
 ---
-title: DOM - Document Object Model
+title: Document Object Model
 ---
 
 #Working with DOM - Document Object Model
