@@ -46,6 +46,5 @@ This is what our exported spreadsheet looks like, note that is captured all 3 pr
 There are other kinds of loops:
 For...Next Loop - runs code a specified number of times
 For Each...Next statement - runs code for each item in a collection or each element of an array
-Do...Loop statement - loops while or until a condition is true
-While...Wend statement - Do not use it - use the Do...Loop statement instead
+Do...Loop statement - loops while or until a condition is true much like a while loop
 
