@@ -2,6 +2,9 @@
 title: Object Models
 ---
 
+There are various Object Models that help VBScript interact with a certain group of objects. This can be exetremely useful in your test scripts.
+
+
 #COM - Component Object Model
 
 COM is used to help interact with objects in many different programming languages. Since VBScript supports COM so does QTP. COM includes Microsoft technologies like: OLE, OLE Automation, ActiveX, COM+, DCOM, the Windows shell, DirectX, and Windows Runtime. COM helps us interact with Microsoft Objects like Word, Access, Excel, Outlook, Internet Explorer, and the Windows File System Object.
@@ -13,7 +16,7 @@ First we must create an instance of the object we want to use:
 
 #WSH - Windows Script Host Object Model
 
-You can use WSH to run a program, manipulate the contents of the registry, or send keyboard input.
+You can use WSH to run applications, manipulate the contents of the registry, or send keyboard input.
 
 #DOM - Document Object Model
 
