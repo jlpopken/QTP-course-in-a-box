@@ -16,4 +16,44 @@ ADODB.Fields - get a specific column from a record set after executing a query o
 
 ADODB.Recordset - get data from a database
 
+You will want to specify a Provider when using the connection method. Here is a list of Provider codes:
 
+ADSDSOObject	Active Directory Services
+Microsoft.Jet.OLEDB.4.0	Microsoft Jet databases
+MSDAIPP.DSO.1	Microsoft Internet Publishing
+MSDAORA	Oracle databases
+MSDAOSP	Simple text files
+MSDASQL	Microsoft OLE DB provider for ODBC
+MSDataShape	Microsoft Data Shape
+MSPersist	Locally saved files
+SQLOLEDB	Microsoft SQL Server
+
+Example:
+Dim myConnection 
+'Create and Set Connection Object
+Set myConnection = CreateObject("ADODB.Connection")     
+Dim myRecordSet 
+ 
+'Create and Set RecordSet Object
+Set myRecordSet = CreateObject("ADODB.Recordset")     
+ 
+ 'Set up Query
+Dim myQuery 
+myQuery = "Select NAME from dbo.EMPLOYEE where AGE = 29"
+ 
+'Connecting to database
+myConnection.Open "Provider=providercode;Server=servername;User Id=userid;Password=password;Database=databasename"
+ 
+'Run the Query
+myRecordSet.Open myQuery,myConnection
+ 
+'Return the Result Set
+Value = myRecordSet.fields.item(0)				
+msgbox Value
+ 
+'Close and Release
+myRecordSet.Close        
+myConnection.Close		
+ 
+Set myConnection = Nothing
+Set myRecordSet = Nothing
