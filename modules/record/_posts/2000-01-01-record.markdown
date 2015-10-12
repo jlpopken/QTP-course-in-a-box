@@ -4,4 +4,4 @@ title: Record
 
 #Recording a Script - Flight
 
-<iframe width="660" height="415" src="https://www.youtube.com/embed/TVE9mPlsFso" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mJeg_RHhzvs" frameborder="0" allowfullscreen></iframe>
