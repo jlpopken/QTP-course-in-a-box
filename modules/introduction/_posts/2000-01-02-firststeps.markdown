@@ -25,7 +25,7 @@ When you try to open the sample application it will prompt you for a username an
 Type in your name for the username (but it can really be anything that is at least 4 characters in length).
 The password is "mercury."
 
-Flight is an application where you can book a flight between two cities for a certain date via an order. You can modify or delete the order. You can fax a customer your signature. It even has a reports and graphs area. So it will be a great start to understand QTP and it's potential. 
+Flight is an application where you can book a flight between two cities for a certain date via an order. You can modify or delete the order. You can fax a customer your signature. It even has a reports and graphs area. So it will be a great start to understand QTP and its potential. 
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10088173/7e6478c2-62de-11e5-874d-c977f3300daa.PNG "Flight App")
 
