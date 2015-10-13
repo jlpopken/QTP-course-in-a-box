@@ -6,7 +6,7 @@ title: firststeps
 
 <iframe width="660" height="415" src="https://www.youtube.com/embed/hSyQ4s6Gpyo" frameborder="0" allowfullscreen></iframe>
 
-I will be completing this lab using QTP version 11. If you are using UFT or an older version of QTP there may be some slight variances. 
+I will be using QTP version 11 in all my videos and screenshots. If you are using UFT or an older version of QTP there may be some slight variances. 
 
 When you open up QTP you will get a prompt asking which addins to load: 
 
