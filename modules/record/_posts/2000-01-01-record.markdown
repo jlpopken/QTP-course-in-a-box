@@ -6,4 +6,6 @@ title: Record
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mJeg_RHhzvs" frameborder="0" allowfullscreen></iframe>
 
+To record, just click on the record button at the top. Remember your record and run settings will have an effect on what happens. You can use those settings to open a window to record on or you can choose to record on an already open window. 
+
 I highly encourage you to play around with the recording feature to get a better feel of object recognition. Try recording the flight application with different add ins. Do you see a difference between using Active X  versus .Net?
