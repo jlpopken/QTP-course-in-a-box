@@ -27,7 +27,7 @@ In your QTP test script, add the following line of code so that your test will i
 
 At the end of your script add the following line to export the global datatable. I name it something different so it does not override the original. 
 
-![alt text](https://cloud.githubusercontent.com/assets/10998057/10350672/fd1dd1dc-6d0a-11e5-99b5-ffdbfc98667a.PNG "Export")
+![alt text]( "Export")
 
 
 
