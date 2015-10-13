@@ -5,3 +5,5 @@ title: Record
 #Recording a Script - Flight
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mJeg_RHhzvs" frameborder="0" allowfullscreen></iframe>
+
+I highly encourage you to play around with the recording feature to get a better feel of object recognition. Try recording the flight application with different add ins. Do you see a difference between using Active X  versus .Net?
