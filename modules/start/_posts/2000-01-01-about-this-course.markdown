@@ -6,9 +6,9 @@ title: How will this course work?
 
 --------------------------------------------------------------------------------
 
-1.This lab should take you a few hours to work through.
+1.In order to complete the exercises, you will need access to QTP or UFT and it's sample application Flight.
 
-2.In order to complete the exercises, you will need access to QTP or UFT and it's sample application Flight.
+2.I recommend you watch the videos (in HD) and try to follow along.
 
 3.The goal of this lab is to help you understand how to script flexible, automated tests using QTP/UFT. 
 
