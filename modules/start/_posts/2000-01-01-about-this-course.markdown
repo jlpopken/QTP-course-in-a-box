@@ -5,6 +5,7 @@ title: How will this course work?
 #What will you need?
 
 --------------------------------------------------------------------------------
+This lab is meant to be both training and a reference.
 
 1. In order to complete the exercises, you will need access to QTP or UFT and it's sample application Flight.
 
@@ -13,5 +14,5 @@ title: How will this course work?
 3. The goal of this lab is to help you understand how to script flexible, automated tests using QTP/UFT. 
 
 
-**Doing the course at your own pace does not mean that you have to do the course on your own. Invite a friend!** 
+**Doing this lab at your own pace does not mean that you have to do the course on your own. Invite a friend!** 
 
