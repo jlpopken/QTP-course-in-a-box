@@ -5,7 +5,7 @@ title: How will this course work?
 #What will you need?
 
 --------------------------------------------------------------------------------
-This lab is meant to be both training and a quick reference. The videos will walk you through the topic and the text/screenshots can be a quick cheat sheet. 
+This lab is meant to be both training and a quick reference. The videos will walk you through the topic and the text/screenshots can be used as a quick cheat sheet. 
 
 1. In order to follow along, you will need access to QTP or UFT and it's sample application Flight.
 
