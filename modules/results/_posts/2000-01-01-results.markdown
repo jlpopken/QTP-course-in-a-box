@@ -4,7 +4,21 @@ title: Results
 
 #Results
 
+You can customize test steps as pass or fail status using the Reporter Object. 
 
+Syntax:
+
+Reporter.ReportEvent EventStatus, ReportStepName, Details [, ImageFilePath]
+
+EventStatus can be one of the following:
+----------------------------------------------------
+- 0 or micPass  sends a pass status to test result window
+- 1 or micFail sends a fail status to test result window
+- 2 or micDone sends a message to test result window without affecting the Pass/Fail status
+- 3 or micWarning sends a warning message to the result window
+
+Ex:
+Reporter.ReportEvent micPass, "Login", "The Flight application was logged into successfully."
 
 ![alt text]( "Export")
 
