@@ -2,17 +2,10 @@
 title: Resources
 ---
 
-## Basics
+## Resources
 
-These are some links that will help you with setting up a course using the template:
+Are you done with this lab and want more?? Here are some great resources:
 
-- [Markdown reference](http://daringfireball.net/projects/markdown/syntax)
+- [Guru99](http://www.guru99.com/quick-test-professional-qtp-tutorial.html)
+- [Learn QTP](http://www.learnqtp.com/step-by-step-guide-to-learn-qtp/)
 
-## Intermediate
-
-## Advanced
-
-Here are some links for you if you are planning to customize the provided course template:
-
-- [Jekyll nuts and bolts](]http://jekyllbootstrap.com/lessons/jekyll-introduction.html)
-- [Liquid reference](http://docs.shopify.com/themes/liquid-basics)
