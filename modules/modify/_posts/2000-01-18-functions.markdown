@@ -8,15 +8,10 @@ One cool thing about QTP is that you can create custom functions and then stored
 
 Example of a Function: 
  
-function SumOfTwoNumbers(a,b)
-Dim sum
-sum=a+b
-SumOfTwoNumbers=sum
-End Function
- 
+
 Example Calling a Function:
 
-result=SumOfTwoNumbers(x,y)
-msgbox result
+
+
 
 
