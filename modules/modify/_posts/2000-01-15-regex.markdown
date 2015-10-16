@@ -3,3 +3,13 @@ title: Regular Expressions
 ---
 
 #Regular Expressions
+
+In computer science, regular expressions are used to define a search pattern. Using a search pattern we can validate that a string matches our pattern or we can use our pattern to perform find and replace operations. 
+
+In this example we will use Regular Expressions to find and replace the world "lamb" with "puppy" in a string.
+
+
+
+
+
+
