@@ -14,4 +14,4 @@ The object repository will look like this:
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10544437/0582daae-73e9-11e5-865a-71233910501c.PNG "ObjectRepository")
 
-As you can 
+As you can see QTP picked two property/value pairs to identify the OK button. Text = "OK" and Class = "Button."
