@@ -8,6 +8,17 @@ In computer science, regular expressions are used to define a search pattern. Us
 
 In this example we will use Regular Expressions to find and replace the world "lamb" with "puppy" in a string.
 
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10545451/621df79e-73ee-11e5-826d-6f26e6804315.PNG "regex")
+
+So the first message box that prints on line 12 looks like this:
+
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10545522/b81af50c-73ee-11e5-8f5e-b63b85193d8d.PNG "lamb")
+
+And the second message box that prints on line 18 (after we've done the find the replace) looks like this:
+
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10545521/b819d352-73ee-11e5-9b64-cb7c09cb5abb.PNG "puppy")
+
+
 
 
 
