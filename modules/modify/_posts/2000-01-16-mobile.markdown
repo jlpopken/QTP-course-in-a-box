@@ -1,9 +1,0 @@
----
-title: Mobile Devices
----
-
-#Mobile Devices
-
-*Does require the mobile add-in but it is available for QTP & UFT but UFT does have extended mobile testing abilities called UFT Mobile. 
-
-
