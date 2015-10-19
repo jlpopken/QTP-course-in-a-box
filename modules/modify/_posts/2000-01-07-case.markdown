@@ -4,7 +4,7 @@ title: Case
 
 #Case
 
-Let's say we need to test for a lot of specific values. You woul have to write alot of if/else statements. Or you could just use a case statement. Like this:
+Let's say we need to test for a lot of specific values. You would have to write alot of if/else statements. Or you could just use a case statement. Like this:
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10371606/cf2b1d4e-6da9-11e5-9f25-4821337218f1.PNG "NewOrder")
 
