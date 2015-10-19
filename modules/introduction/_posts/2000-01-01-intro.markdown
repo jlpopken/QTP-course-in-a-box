@@ -8,9 +8,9 @@ title: Introduction
 
 HP Quick Test Professional (QTP) and Unified Functional Testing (UFT) are testing tools that help automate functional and regression testing. They can also help automate data entry or data validation. 
 
-The QTP application evolved into the UFT application in version 11.5. What this really means is that UFT 11.5 combined QTP and another HP application called Service Test which was testing geared more towards APIs. 
+The QTP application evolved into the UFT application in version 11.5. What this really means is that UFT 11.5 combined QTP and another HP application called Service Test, which was testing geared more towards APIs. 
 
-They are popular tools because they can easily record and playback scripts. These scripts can then easily be modified or enhanced with extra logic or validation. They can test web applications, desktop applications, and SAP applications etc. 
+They are popular tools because they can easily record and playback scripts. These scripts can then easily be modified or enhanced with extra logic or validation. They can test web applications, desktop applications, SAP applications, APIs, and Mobile devices etc. 
 
 QTP/UFT uses a scripting language called VBscript. It was developed by Microsoft in 1996. 
 
