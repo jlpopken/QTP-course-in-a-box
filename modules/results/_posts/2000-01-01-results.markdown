@@ -18,9 +18,9 @@ EventStatus can be one of the following:
 - 3 or micWarning sends a warning message to the result window
 
 Ex:
-Reporter.ReportEvent micPass, "Login", "The Flight application was logged into successfully."
+After we pass our checkpoint, we will add some code that will show the login step as a pass. 
 
-![alt text]( "Export")
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10583497/ec32cf52-7652-11e5-9fbb-338fb18242a0.PNG "Reporter")
 
 
 
