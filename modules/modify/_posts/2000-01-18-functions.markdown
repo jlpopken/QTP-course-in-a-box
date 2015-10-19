@@ -8,11 +8,15 @@ One cool thing about QTP is that you can create custom functions and then stored
 
 Example of a Function: 
 
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10582915/bed5bedc-764f-11e5-8023-df6a21c421f7.PNG "Function")
+
 Example of Associating a function with a function library. 
  
- Click File > Settings > Resources > Associate Function Library.Click Add. Select The Function Library File.Click Okay
+ First make sure you have a function library file created. Then in QTP Click File > Settings > Resources > Associate Function Library. Click green plus sign. Select The Function Library File. Click Okay.
 
 Example Calling a Function:
+
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10582916/bedd23ac-764f-11e5-8998-1fc7efd64f16.PNG "Calling")
 
 
 
