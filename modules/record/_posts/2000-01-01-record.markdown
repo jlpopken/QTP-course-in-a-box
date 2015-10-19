@@ -8,5 +8,5 @@ title: Record
 
 To record, just click on the record button at the top. Remember your record and run settings will have an effect on what happens. You can use those settings to open the applications used in your tests or or you can choose to record on an already open window. 
 
-###Exercise #1
+###Exercise
 I highly encourage you to play around with the recording feature to get a better feel of object recognition. Try recording the flight application with different add ins. Do you see a difference between using Active X  versus .Net? 
