@@ -16,7 +16,7 @@ So the first message box that prints on line 12 looks like this:
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10545522/b81af50c-73ee-11e5-8f5e-b63b85193d8d.PNG "lamb")
 
-And the second message box that prints on line 18 (after we've done the find the replace) looks like this:
+And the second message box that prints on line 18 (after we've done the find and replace) looks like this:
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10545521/b819d352-73ee-11e5-9b64-cb7c09cb5abb.PNG "puppy")
 
