@@ -4,7 +4,7 @@ title: Recovery Scenarios
 
 #Recovery Scenarios
 
-As your test scripts run, they will some times run into unexpected problems or errors. We will use recovery scenarios so that our scripts can "recover" from these errors and continue running the script. 
+Your test scripts will sometimes run into unexpected problems or errors as you run them. We will use recovery scenarios so that our scripts can "recover" from these errors and continue running the script. 
 
 Click on Resources -> Recovery Scenario Manager
 
