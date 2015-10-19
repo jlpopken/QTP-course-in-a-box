@@ -10,6 +10,7 @@ We are going to learn how to put values that we will use in  our tests on a spre
 
 Open up an excel spreadsheet.
 First write the header for the column User and then put in the value
+</ br>
     Ex. Here you see a "USER" column with a value "jeanette" 
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10349774/c0988a18-6d05-11e5-8459-856918c28747.PNG "User")
