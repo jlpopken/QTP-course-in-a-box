@@ -56,11 +56,11 @@ Then give it a name and a description.
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10379770/c8a9ce26-6dd5-11e5-972d-eb02326a00a0.PNG "Scenario")
 
 I choose to add it to this script. And now it's part of our test. 
+
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10379774/c8ae7f02-6dd5-11e5-9c15-f5226d88c46e.PNG "Scenario")
 
-
 ###Exercise
-If you change one of the dates on your spreadsheet to any date before today's date the script will hit the recovery scenario, replace the bad date with 123215 and continue on. 
+Change one of the dates on your spreadsheet to a date before today's date. Then run your test sript. Does your test hit the recovery scenario? Instead of deleting the bad date and entering a new date, what else could you try to recover from this error?
 
 
 
