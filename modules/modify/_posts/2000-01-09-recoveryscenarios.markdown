@@ -41,7 +41,7 @@ Then we need to give our scenario some steps to help recover and continue. First
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10379778/c8bbaa6a-6dd5-11e5-8314-ab1259539d35.PNG "Enter")
 
-Then we want to add another one. We need this to erase out the bad date and enter in a good date. So I created a function which we will select. 
+Then we need this to erase out the bad date and enter in a good date. So I created a function which we will select. 
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10379769/c8a99c08-6dd5-11e5-8b60-e5b1a173e110.PNG "Function")
 
