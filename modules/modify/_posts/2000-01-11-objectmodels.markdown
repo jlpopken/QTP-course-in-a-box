@@ -49,4 +49,8 @@ Here are some examples of what you can do using DOM:
 
 You can use AOM to load all the required add-ins for a test, make QTP visible while execution, opens the test using the specified location, associates function libraries, setting the common object sync time out, start and end iteration, enable/disable smart identification, on error settings, data table path, recovery scenario settings, and log tracking settings. So you can use AOM objects to help automate configurations for your test script. 
 
+HP offers really good documentation about AOM. Go to Start -> All Programs -> HP QuickTest Professional -> Documentation -> QuickTest Automation Reference.
+
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10582617/51db476c-764e-11e5-9d60-0f70f3eeec74.png "Documentation")
+
 
