@@ -14,7 +14,7 @@ So let's change the way we are clicking on the Insert Order button.
 
 (You can even delete the Insert Order button out of the object repository if you want. We won't need it anymore.)
 
-So let's click on the object spy and then the pointer and then click on the Insert Order Button. 
+So let's click on the object spy and then the pointer. And then click on the Insert Order Button. 
 We want to find a unique property/value pair:
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10459340/bee3f12e-7194-11e5-875c-18a026371885.PNG "PropertyValuePair")
