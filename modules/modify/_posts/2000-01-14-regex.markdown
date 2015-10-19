@@ -20,6 +20,10 @@ And the second message box that prints on line 18 (after we've done the find and
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10545521/b819d352-73ee-11e5-9b64-cb7c09cb5abb.PNG "puppy")
 
+###Exercise
+
+Since regular expressions can be a little tricky, there are lots of online resources to help you test your regular expressions. Like this one: http://www.regextester.com/ Use this site to get familiar. 
+
 
 
 
