@@ -12,7 +12,9 @@ Example of a Function:
 
 Example of Associating a function with a function library. 
  
- First make sure you have a function library file created. Then in QTP Click File > Settings > Resources > Associate Function Library. Click green plus sign. Select The Function Library File. Click Okay.
+ First make sure you have a function library file created (this type of file ends in .qfl) Then in QTP Click File > Settings > Resources > Associate Function Library. Click green plus sign. Select The Function Library File. Click Okay.
+ 
+ ![alt text](https://cloud.githubusercontent.com/assets/10998057/10583034/5f3a8bb4-7650-11e5-929e-d9ac10cd1981.PNG "AssociateLibrary")
 
 Example Calling a Function:
 
