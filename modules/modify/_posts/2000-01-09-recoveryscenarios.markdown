@@ -33,7 +33,7 @@ This is the initial information that it grabbed when I pointed to the pop-up win
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10379776/c8b61320-6dd5-11e5-94cd-93dc73473c6c.PNG "PointerInfo")
 
-But I changed it to be a regular expression so that is would work with any date no just 10/08/15. Regular expressions are great fun and can be very helpful. (See resources for more info about them.) 
+But I changed it to be a regular expression so that is would work with any date no just 10/08/15. Regular expressions are great fun and can be very helpful. (See resources for more info about them) 
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10379775/c8b59954-6dd5-11e5-857e-7a03ac9658bf.PNG "PointerInfo")
 
