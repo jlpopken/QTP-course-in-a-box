@@ -53,4 +53,11 @@ HP offers really good documentation about AOM. Go to Start -> All Programs -> HP
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10582617/51db476c-764e-11e5-9d60-0f70f3eeec74.png "Documentation")
 
+There are a few places you can create AOM scripts. Go to the various places you can specify settings and look for a "Generate Script" button. 
+
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10582735/eee1b140-764e-11e5-92e6-cfcd69d475fa.PNG "Generate")
+
+This will create a vbscript file that can be used to open up QTP with the settings that are currently selected.
+
+
 
