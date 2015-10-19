@@ -7,7 +7,7 @@ title: How will this course work?
 --------------------------------------------------------------------------------
 This lab is meant to be both training and a quick reference. The videos will walk you through the topic and the text/screenshots can be used as a quick cheat sheet. 
 
-1. In order to follow along, you will need access to QTP or UFT and it's sample application Flight.
+1. In order complete this lab, you will need access to QTP or UFT and it's sample application Flight.
 
 2. I recommend you watch the videos fullscreen (in HD) and try to follow along as you can.
 
