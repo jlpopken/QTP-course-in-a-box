@@ -42,8 +42,6 @@ This then shows you the captured property/value pairs it will use as the expecte
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10376498/c297cf2c-6dc3-11e5-93fa-155331b42790.PNG "Properties")
 
-This then shows you the captured property/value pairs it will use as the expected values that it will compare against runtime values. 
-
 QTP will then generate a line of code to your test script:
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10376524/e4fc1320-6dc3-11e5-83e2-7c1f666fd769.PNG "Checkpoint")
