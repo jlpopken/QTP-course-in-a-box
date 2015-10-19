@@ -11,10 +11,12 @@ COM is used to help interact with Microsoft objects. COM  objects includes Micro
 
 First we must create an instance of the object we want to use:
 
+Here are some examples:
+
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10581159/e05a3adc-7646-11e5-9c5e-a79825b82359.PNG "EXCEL")
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10380818/d9121a92-6ddb-11e5-8388-8ff1453ed118.PNG "WORD")
 
-Once you have created the object you can always type the name and then a period (I.E. myExcel.) and then the list of available methods will pop up.
+Once you have created the object you can always type the name and then a period (I.E. "myExcel.") and then the list of available methods will pop up.
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10581161/e05cb370-7646-11e5-96a3-ea5547da4ae0.PNG "Methods")
 
@@ -27,6 +29,8 @@ Here is an example of what you can do with the Excel object:
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10581160/e05a411c-7646-11e5-97e6-5400a0f43c08.PNG "WSH")
 
 You can use WSH to run applications, manipulate the contents of the registry, or send keyboard input.
+
+Here is an example of using the WSH object model to send keyboard input:
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10581157/e048f2fe-7646-11e5-9377-3bca811df5dc.PNG "SendKeys")
 
