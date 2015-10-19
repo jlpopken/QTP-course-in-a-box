@@ -50,5 +50,5 @@ Do...Loop statement - loops while or until a condition is true much like a while
 
 
 ###Exercise
-Try converting your while loop into the various different types of loops. 
+Try converting your while loop into the various different types of loops. Which one was easiest to write?
 
