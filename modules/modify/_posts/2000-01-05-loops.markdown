@@ -48,3 +48,7 @@ For...Next Loop - runs code a specified number of times <br />
 For Each...Next statement - runs code for each item in a collection or each element of an array <br />
 Do...Loop statement - loops while or until a condition is true much like a while loop <br />
 
+
+###Exercise
+Try converting your while loop into the various different types of loops. 
+
