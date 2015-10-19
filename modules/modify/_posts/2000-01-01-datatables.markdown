@@ -6,7 +6,7 @@ title: Import/Export DataTables
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/HSkuRUSRjQg" frameborder="0" allowfullscreen></iframe>
 
-We are going to learn how to put values for our tests on a spreadsheet and then import that spreadsheet as the Global DataTable so that QTP can read in those values instead of using hardcoded values in the test script itself. 
+We are going to learn how to put values that we will use in  our tests on a spreadsheet and then import that spreadsheet as the Global DataTable so that QTP can read in those values instead of using hardcoded values in the test script itself. 
 
 Open up an excel spreadsheet
 First write the header for the column User and then put in the value
