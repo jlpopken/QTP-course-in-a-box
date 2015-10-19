@@ -14,4 +14,4 @@ Using our conditional if/else logic you can see the messages that were written o
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10370937/ab8cd344-6da6-11e5-8ebc-665a5b8f62a8.PNG "Output")
 
-In this example we used the condition to determine what we wrote to the spreadsheet but you can also use if if you only want to execute a certain block of code if a condition is met or not met. 
+In this example we used the condition to determine what we wrote to the spreadsheet but you can also use if/else statements when you only want to execute a certain block of code if a condition is met or not met. 
