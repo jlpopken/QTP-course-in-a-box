@@ -34,6 +34,10 @@ Here is an example of using the WSH object model to send keyboard input:
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10581157/e048f2fe-7646-11e5-9377-3bca811df5dc.PNG "SendKeys")
 
+Here is an example of using WSH to run an aplication:
+
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10581400/0f644a9c-7648-11e5-8c1c-d410a8d83d02.PNG "Open")
+
 #DOM - Document Object Model
 You can use DOM to interact with objects in HTML, XHTML, and XML documents. So think web applications. 
 
