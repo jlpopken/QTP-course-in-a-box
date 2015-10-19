@@ -16,6 +16,6 @@ Give it a name.
 
 Then find where you want to end your transaction. I'm going to end if after the login. Click on Insert -> End Transaction. 
 
-The now my login is encases in a transaction named "Login."
+The now my login is encased in a transaction named "Login."
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10583707/18a0a996-7654-11e5-9141-1360977597cf.PNG "Transaction")
