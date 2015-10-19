@@ -8,7 +8,7 @@ Environment Variables are special variables that can be used by all actions, fun
 
 There are built in environment variables (pre-defined) and there are user-defined ones. 
 
-In QTP click on File -> Settings 0> Environment
+In QTP click on File -> Settings -> Environment
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10380233/4d0cf740-6dd8-11e5-9a97-87243e9df958.png "LoginCode")
 
