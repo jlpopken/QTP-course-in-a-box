@@ -10,9 +10,9 @@ There are various Object Models that help VBScript interact with a certain group
 COM is used to help interact with Microsoft objects. COM  objects includes Microsoft technologies like: OLE, OLE Automation, ActiveX, COM+, DCOM, the Windows shell, DirectX, and Windows Runtime. COM helps us interact with Microsoft Objects like Word, Access, Excel, Outlook, Internet Explorer, and the Windows File System Object.
 
 First we must create an instance of the object we want to use:
-
-![alt text](https://cloud.githubusercontent.com/assets/10998057/10380785/a94eb7ac-6ddb-11e5-876e-ed0e1168ac6b.PNG "User")
-![alt text](https://cloud.githubusercontent.com/assets/10998057/10380818/d9121a92-6ddb-11e5-8388-8ff1453ed118.PNG "User")
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10581159/e05a3adc-7646-11e5-9c5e-a79825b82359.PNG "EXCEL")
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10380818/d9121a92-6ddb-11e5-8388-8ff1453ed118.PNG "WORD")
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10581160/e05a411c-7646-11e5-97e6-5400a0f43c08.PNG "WSH")
 
 #WSH - Windows Script Host Object Model
 
