@@ -41,6 +41,10 @@ Here is an example of using WSH to run an aplication:
 #DOM - Document Object Model
 You can use DOM to interact with objects in HTML, XHTML, and XML documents. So think web applications. 
 
+Here are some examples of what you can do using DOM:
+
+![alt text](https://cloud.githubusercontent.com/assets/10998057/10582476/b1235f9e-764d-11e5-9fe7-efd1170afb11.PNG "DOM")
+
 #AOM - Automation Object Model
 
 You can use AOM to load all the required add-ins for a test, make QTP visible while execution, opens the test using the specified location, associates function libraries, setting the common object sync time out, start and end iteration, enable/disable smart identification, on error settings, data table path, recovery scenario settings, and log tracking settings. So you can use AOM objects to help automate configurations for your test script. 
