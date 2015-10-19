@@ -8,7 +8,7 @@ title: Loops
 
 Often times in scripts, we will want to repeat or loop through something so we can do this multiple times. In this case we are going to add a loop into our script so that it creates more than one order. 
 
-First we will need to record a few more steps in our Flight application. After we insert the order, we will need to record clicking on the "new order" button.  
+First we will need to record another step in our Flight application. After we insert the order, we will need to record clicking on the "new order" button.  
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10368226/eba0013e-6d99-11e5-9e87-78ea7badfe28.PNG "NewOrder")
 
@@ -16,11 +16,11 @@ Now we need to add some looping logic. First we are going to add another column 
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10369603/c5facf34-6da0-11e5-8646-68e826dfe0e1.PNG "Dates")
 
-Now we will add some VBScript code that will declare the variable we will use. 
+Now we will add some VBScript code that will declare the variable we will use. A variable is like a storage location for data. We will use our variable RowCount to store the numerical value of the row count.
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10370278/b19d51c6-6da3-11e5-8af3-726f7a952247.PNG "Variable")
 
-We will use the variable RowCount to hold the initial number of rows, in this case 3.
+We will use the GetRowCount method to find out the number of rows in our spreadsheet. In this case its 3.
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10370276/b19cb748-6da3-11e5-9b44-15f5db579ca4.PNG "RowCount")
 
