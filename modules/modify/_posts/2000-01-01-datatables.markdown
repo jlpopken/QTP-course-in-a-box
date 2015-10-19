@@ -15,7 +15,7 @@ First write the header for the column User and then put in the value
 
 ![alt text](https://cloud.githubusercontent.com/assets/10998057/10349774/c0988a18-6d05-11e5-8459-856918c28747.PNG "User")
 
-Now do the same for Password
+Now do the same for Password.
 <br />
     Ex. Here you see a "USER" column with a value "jeanette" and a "PASSWORD" column with a value "mercury"
 
